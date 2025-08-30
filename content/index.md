@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Welcome to my about me page.
 ---
+# Under Construction
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This page is under construction. Please check in at a later time.
